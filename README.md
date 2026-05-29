@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/img/logo.png" width="96" alt="Nice Tracker logo">
+<img width="96" alt="Nice Tracker logo" src="https://github.com/user-attachments/assets/05bfb90a-da14-46a2-a814-dda0f728e94b" />
 
 # Nice Tracker
 
