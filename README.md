@@ -49,7 +49,7 @@ Live deck & opponent trackers over your game, a deck-stats bar, a full match-his
     </td>
     <td width="50%" align="center">
       <!-- Opponent tracker close-up — showing the "faced before" panel -->
-      <img src="docs/img/opponent-tracker.png" alt="Opponent tracker" width="100%"><br>
+      <img width="385" height="516" alt="Opponent tracker" src="https://github.com/user-attachments/assets/75d2877e-f22a-4af4-a554-f680967fe060" />
       <sub><b>Opponent tracker</b> — what they've revealed, and whether you've faced them before</sub>
     </td>
   </tr>
