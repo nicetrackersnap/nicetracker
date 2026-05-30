@@ -45,11 +45,13 @@ Live deck & opponent trackers over your game, a deck-stats bar, a full match-his
     <td width="50%" align="center">
       <!-- Player deck tracker close-up -->
       <img width="388" height="517" alt="Deck tracker" src="https://github.com/user-attachments/assets/e5edbfe6-f616-4572-a3a4-00dd7b3e7159" />
+      <br>
       <sub><b>Deck tracker</b> — cards remaining & drawn</sub>
     </td>
     <td width="50%" align="center">
       <!-- Opponent tracker close-up — showing the "faced before" panel -->
       <img width="392" height="558" alt="image" src="https://github.com/user-attachments/assets/c94803c4-e440-4d3c-b86b-179d85a1a86d" />
+      <br>
       <sub><b>Opponent tracker</b> — what they've revealed, and whether you've faced them before</sub>
     </td>
   </tr>
@@ -57,11 +59,13 @@ Live deck & opponent trackers over your game, a deck-stats bar, a full match-his
     <td width="50%" align="center">
       <!-- Stats dashboard -->
       <img width="820" alt="Stats dashboard" src="https://github.com/user-attachments/assets/7990c067-9ca0-4c70-85a1-3255553f49f0" />
+      <br>
       <sub><b>Stats dashboard</b> — match history & analytics</sub>
     </td>
     <td width="50%" align="center">
       <!-- The pet (a GIF reads best here if you can capture one) -->
       <img width="421" height="320" alt="The pet" src="https://github.com/user-attachments/assets/0fabe783-9598-4eb3-820a-412a9c590a71" />
+      <br>
       <sub><b>Your pet</b> — reacts to your games</sub>
     </td>
   </tr>
