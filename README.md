@@ -59,7 +59,6 @@ Live deck & opponent trackers over your game, a deck-stats bar, a full match-his
     <td width="50%" align="center">
       <!-- Stats dashboard -->
       <img width="820" alt="Stats dashboard" src="https://github.com/user-attachments/assets/855bf22e-d8fd-4286-b0c4-43d18f2425f1" />
-
       <br>
       <sub><b>Stats dashboard</b> — match history & analytics</sub>
     </td>
