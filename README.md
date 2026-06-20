@@ -7,7 +7,7 @@
 **A Marvel Snap overlay, pet, and stats tracker for Windows.**
 Live deck & opponent trackers over your game, a deck-stats bar, a full match-history dashboard — and a little pixel pet that reacts to your games.
 
-[![Download Nice Tracker for Windows](https://img.shields.io/badge/⬇_Download-Nice_Tracker_for_Windows-2ea44f?style=for-the-badge&logo=windows)](https://github.com/nicetrackersnap/nicetracker/releases/latest/download/NiceTracker-win-Setup.exe)
+[![Download Nice Tracker for Windows](https://img.shields.io/badge/⬇_Download-Nice_Tracker_for_Windows-2ea44f?style=for-the-badge&logo=windows)](https://github.com/nicetrackersnap/nicetracker/releases/download/0.1.44/OnReveal-Setup.exe)
 
 ![Latest version](https://img.shields.io/github/v/release/nicetrackersnap/nicetracker)
 ![Downloads](https://img.shields.io/github/downloads/nicetrackersnap/nicetracker/total)
