@@ -7,7 +7,7 @@
 **A Marvel Snap overlay, pet, and stats tracker for Windows.**
 Live deck & opponent trackers over your game, a deck-stats bar, a full match-history dashboard — and a little pixel pet that reacts to your games.
 
-[![Download Nice Tracker for Windows](https://img.shields.io/badge/⬇_Download-Nice_Tracker_for_Windows-2ea44f?style=for-the-badge&logo=windows)](https://github.com/nicetrackersnap/nicetracker/releases/download/0.1.44/OnReveal-Setup.exe)
+[![Download Nice Tracker for Windows](https://img.shields.io/badge/⬇_Download-Nice_Tracker_for_Windows-2ea44f?style=for-the-badge&logo=windows)](https://github.com/nicetrackersnap/nicetracker/releases/latest/download/OnReveal-Setup.exe)
 
 ![Latest version](https://img.shields.io/github/v/release/nicetrackersnap/nicetracker)
 ![Downloads](https://img.shields.io/github/downloads/nicetrackersnap/nicetracker/total)
@@ -75,7 +75,7 @@ Live deck & opponent trackers over your game, a deck-stats bar, a full match-his
 
 ## 🚀 Get started
 
-1. **[Download the installer](https://github.com/nicetrackersnap/nicetracker/releases/download/0.1.44/OnReveal-Setup.exe)** and run it. It installs to your user folder — no admin prompt.
+1. **[Download the installer](https://github.com/nicetrackersnap/nicetracker/releases/latest/download/OnReveal-Setup.exe)** and run it. It installs to your user folder — no admin prompt.
 2. Launch **Nice Tracker**, then open **Marvel Snap**. The overlay attaches on its own.
 3. That's it — trackers appear in-game, and the stats dashboard lives at **http://localhost:61700/stats**.
 
