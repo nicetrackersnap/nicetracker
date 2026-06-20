@@ -75,10 +75,10 @@ Live deck & opponent trackers over your game, a deck-stats bar, a full match-his
 
 ## 🚀 Get started
 
-1. **[Download the installer](https://github.com/nicetrackersnap/nicetracker/releases/latest/download/NiceTracker-win-Setup.exe)** and run it. It installs to your user folder — no admin prompt.
+1. **[Download the installer](https://github.com/nicetrackersnap/nicetracker/releases/download/0.1.44/OnReveal-Setup.exe)** and run it. It installs to your user folder — no admin prompt.
 2. Launch **Nice Tracker**, then open **Marvel Snap**. The overlay attaches on its own.
 3. That's it — trackers appear in-game, and the stats dashboard lives at **http://localhost:61700/stats**.
 
 > **First launch may show a Windows SmartScreen prompt** (the app isn't code-signed yet) — click **More info → Run anyway**. It's safe; the warning just means the publisher isn't yet verified with Microsoft.
 
-Prefer no installer? Grab the **[portable .zip](https://github.com/nicetrackersnap/nicetracker/releases/latest/download/NiceTracker-win-Portable.zip)**.
+Prefer no installer? Grab the **[portable .zip](https://github.com/nicetrackersnap/nicetracker/releases/download/0.1.44/OnReveal-Portable.zip)**.
